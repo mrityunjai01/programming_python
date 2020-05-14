@@ -1,0 +1,4 @@
+input_list = []
+l = input("input a number, type End to end")
+while(input != "End"):
+    
